@@ -2,38 +2,38 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348109263390"
-global.ownername = "Elite-Pro-V2"
-global.ytname = "YT: ElitePro"
-global.socialm = "GitHub: elite-md"
-global.location = "Nigeria, Port Harcourt"
+global.ownernomer = "94772867423"
+global.ownername = "pasiya"
+global.ytname = ""
+global.socialm = ""
+global.location = "Sri lanka"
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'Elite-Pro-V2' //owner name
+global.ownernumber = '94772867423'  //creator number
+global.ownername = 'pasiya' //owner name
 global.botname = 'ELITE-PRO-V2' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ELITE-PRO🚫\n\nContact: +2348109263390'
+global.author = '❤️‍🩹'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "ELITEPRO."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
